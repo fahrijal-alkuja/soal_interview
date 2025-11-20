@@ -1,8 +1,6 @@
-# soal_interview
-Soal Interview IT
 
-# soal_interview
-Soal Interview IT
+
+# Soal Teknikal interview
 
 ---
 
